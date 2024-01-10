@@ -158,6 +158,7 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 
 Mohammed Kaka - [Github](https://github.com/mcakyerima) / [Twitter](https://twitter.com/mcakyerima)
+Ndivhuho
 
 Second part of Airbnb: Joann Vuong
 ## License
