@@ -1,0 +1,20 @@
+# Create States
+create State name="California"
+create State name="Arizona"
+
+# List all States
+all State
+
+# Create Places
+create Place city_id="0001" user_id="0001" name="My_little_house" number_rooms=4 number_bathrooms=2 max_guest=10 price_by_night=300 latitude=37.773972 longitude=-122.431297
+
+# Add 39 more Places with different data
+create Place city_id="0002" user_id="0002" name="Cozy_cabin" number_rooms=3 number_bathrooms=1 max_guest=6 price_by_night=150 latitude=38.894368 longitude=-77.037452
+create Place city_id="0003" user_id="0003" name="Beachfront_villa" number_rooms=5 number_bathrooms=3 max_guest=12 price_by_night=500 latitude=25.7617 longitude=-80.1918
+create Place city_id="0004" user_id="0004" name="Mountain_retreat" number_rooms=2 number_bathrooms=1 max_guest=4 price_by_night=100 latitude=39.550051 longitude=-105.782067
+create Place city_id="0005" user_id="0005" name="Urban_loft" number_rooms=1 number_bathrooms=1 max_guest=2 price_by_night=80 latitude=40.7128 longitude=-74.0060
+create Place city_id="0006" user_id="0006" name="Rustic_cottage" number_rooms=3 number_bathrooms=2 max_guest=6 price_by_night=120 latitude=44.4280 longitude=-110.5885
+# Add 35 more Places...
+
+# List all Places
+all Place
